@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="correspondence:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/correspondence_war</output-path>
+    <root id="archive" name="correspondence_war.war">
+      <element id="artifact" artifact-name="correspondence:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
